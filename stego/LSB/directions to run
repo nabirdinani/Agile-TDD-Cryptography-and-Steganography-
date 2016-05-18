@@ -1,0 +1,9 @@
+javac Steganography_Controller.java
+
+
+run: java Steganography_Controller 
+
+
+- choose any of the input images - encode it and then run the app again and decode the encoded image 
+
+For attacks, encode am image, check if it decodes the image. Once it does this you can use Attack to overwrite which will write the message "The North Remebers" or if you use Attack to destroy, it will completely erase any message.
